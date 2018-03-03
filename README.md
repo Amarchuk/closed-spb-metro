@@ -17,7 +17,8 @@ Cколько проходит между закрытием/событием и
 ![closedtime](https://github.com/Amarchuk/closed-spb-metro/blob/master/imgs/closedtime.png "closed time")
 
 Время закрытия:
-![closehour](https://github.com/Amarchuk/closed-spb-metro/blob/master/imgs/closehour.png "closed hour")
+
+ ![closehour](https://github.com/Amarchuk/closed-spb-metro/blob/master/imgs/closehour.png "closed hour")
 
 Другие причины закрытия помимо "безхозного :briefcase:":
 - падение : 6
